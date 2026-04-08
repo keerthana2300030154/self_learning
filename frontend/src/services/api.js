@@ -1,6 +1,6 @@
 import axios from "axios";
 
-const API = "http://127.0.0.1:8001";
+const API = "https://securax-backend.onrender.com";
 
 // Add Log
 export const addLog = async (data) => {
